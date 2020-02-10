@@ -1,8 +1,8 @@
 # Api de mutation
 
 ### Url de Api
- http://dnaserver-e6327.appspot.com/
- Uso de App engine de google
+ https://adn-delightful-chipmunk-oh.mybluemix.net/
+ Uso de Cloud foundry de IBM CLOUD
 
 
 ## POST /mutation

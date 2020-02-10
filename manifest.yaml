@@ -1,0 +1,4 @@
+applications:
+  - name: ADN
+    random-route: true
+    memory: 256M
